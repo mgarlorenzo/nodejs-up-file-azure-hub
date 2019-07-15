@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-up-file-azure-hub",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "azure-iot-device-mqtt": "^1.9.9",
+    "console-stamp": "^0.2.9",
+    "cookie-parser": "^1.4.4",
+    "debug": "~2.6.9",
+    "express": "^4.17.1",
+    "express-healthcheck": "^0.1.0",
+    "fs": "0.0.1-security",
+    "http-errors": "^1.7.3",
+    "morgan": "~1.9.1",
+    "node-cron": "^2.0.3",
+    "properties-reader": "^0.2.0",
+    "pug": "^2.0.4"
+  }
+}
