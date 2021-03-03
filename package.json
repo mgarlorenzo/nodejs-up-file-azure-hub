@@ -17,6 +17,6 @@
     "morgan": "~1.9.1",
     "node-cron": "^2.0.3",
     "properties-reader": "^0.2.0",
-    "pug": "^2.0.4"
+    "pug": "^3.0.1"
   }
 }
