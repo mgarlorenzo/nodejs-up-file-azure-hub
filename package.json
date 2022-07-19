@@ -16,7 +16,7 @@
     "http-errors": "^1.7.3",
     "morgan": "~1.9.1",
     "node-cron": "^2.0.3",
-    "properties-reader": "^0.2.0",
+    "properties-reader": "^2.2.0",
     "pug": "^2.0.4"
   }
 }
