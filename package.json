@@ -10,7 +10,7 @@
     "console-stamp": "^0.2.9",
     "cookie-parser": "^1.4.4",
     "debug": "~2.6.9",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "express-healthcheck": "^0.1.0",
     "fs": "0.0.1-security",
     "http-errors": "^1.7.3",
